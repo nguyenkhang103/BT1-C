@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="listitem" value="tools:listitem=&quot;@layout/&quot;" description="Create Listitem" toReformat="false" toShortenFQNames="true" />
+</templateSet>
